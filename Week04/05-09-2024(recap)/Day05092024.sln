@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project15_Arrays", "Project15_Arrays\Project15_Arrays.csproj", "{B337C0BB-FE00-4740-B5C0-0AAB35CC9705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project16_Random_Password_Generator", "Project16_Random_Password_Generator\Project16_Random_Password_Generator.csproj", "{FFD372AB-F501-4C5D-8F27-5E005D8B36CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project17_CreateAndAssignTeams", "Project17_CreateAndAssignTeams\Project17_CreateAndAssignTeams.csproj", "{9CFBC08C-2DC8-45F3-95FD-989B0220CFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B337C0BB-FE00-4740-B5C0-0AAB35CC9705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B337C0BB-FE00-4740-B5C0-0AAB35CC9705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B337C0BB-FE00-4740-B5C0-0AAB35CC9705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B337C0BB-FE00-4740-B5C0-0AAB35CC9705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD372AB-F501-4C5D-8F27-5E005D8B36CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD372AB-F501-4C5D-8F27-5E005D8B36CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD372AB-F501-4C5D-8F27-5E005D8B36CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD372AB-F501-4C5D-8F27-5E005D8B36CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFBC08C-2DC8-45F3-95FD-989B0220CFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFBC08C-2DC8-45F3-95FD-989B0220CFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFBC08C-2DC8-45F3-95FD-989B0220CFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFBC08C-2DC8-45F3-95FD-989B0220CFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

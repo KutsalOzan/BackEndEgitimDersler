@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soru3", "Soru3.csproj", "{325DDCD5-3991-4298-ABBF-E9EFE29AE92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325DDCD5-3991-4298-ABBF-E9EFE29AE92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325DDCD5-3991-4298-ABBF-E9EFE29AE92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325DDCD5-3991-4298-ABBF-E9EFE29AE92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325DDCD5-3991-4298-ABBF-E9EFE29AE92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87DCCDB8-9177-453B-9636-43D0CCB4A5CD}
+	EndGlobalSection
+EndGlobal

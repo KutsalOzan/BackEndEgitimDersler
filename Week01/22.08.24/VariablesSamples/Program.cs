@@ -96,4 +96,4 @@ class Program
     7) Sabit (Const) ifadeler BUYUK HARFLERLE ve kelime aralarinda alt tire(_) ile yazilmasi tavsiye edilir
     const double PI= 3.14;
     const int MAX_AGE = 100;
-*/
+
